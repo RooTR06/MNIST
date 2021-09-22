@@ -1,1 +1,1 @@
-A quick deep learner method for mnsit dataset.
+A quick deep learner method for mnist dataset.
